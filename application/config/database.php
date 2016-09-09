@@ -65,7 +65,7 @@ $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
 
-$db['prod']['hostname'] = 'mysql.hostinger.in.th';
+$db['prod']['hostname'] = '31.170.165.164';
 $db['prod']['username'] = 'u133154113_test';
 $db['prod']['password'] = '123456';
 $db['prod']['database'] = 'u133154113_test';
